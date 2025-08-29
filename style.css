@@ -5,6 +5,9 @@
 body {
     background-color: black;
 }
+html {
+  scroll-behavior: smooth;
+}
 .navbar {
     display: flex;
     position: fixed;
@@ -77,7 +80,6 @@ ul {
     color: red;
     opacity: 1;
 }
-
 .dekstop1 {
     display: flex;
     width: 100%;
